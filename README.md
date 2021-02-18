@@ -1,5 +1,7 @@
 # Insuring_Insurance_Payments
 
+(Further details can be found here - https://github.com/ummearusha/Insuring_Insurance_Payments/blob/main/Insuring%20Insurance%20Payments.pptx)
+
 The objective of our project was to provide life insurance companies with an optimal asset allocation for seven different asset classes that are common investments in the industry (these being; Corporates, Municipals, Commodities, Treasuries, Equities, MBS and Real Estate).  
 
 The ultimate allocation percentages would be based on recent ETF price data from each asset class.  To start, our group chose around three large ETFs for each asset class, then calculated the sharpe ratios for each.  The ETFs with the highest sharpe ratio by asset class were chosen to represent historical returns for its respective asset class.
